@@ -1,4 +1,5 @@
 ## About me
+:smiley: 22 years old
 
 🎓 2nd year engineering student (Applied Maths, Computer Science and Market Finance)
 
