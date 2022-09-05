@@ -1,7 +1,7 @@
 ## About me
 :smiley: 23 years old
 
-🎓 Last year engineering student (Applied Maths, Computer Science and Market Finance)       
+🎓 Student in Quantitative Finance and engineer in Applied Mathematics and Scientific Computing      
 my website : https://i-blitz.github.io/ImadB/
 ## 📚 Favorite languages :
 ![C++](https://img.shields.io/badge/-C++-2C41CB?style=for-the-badge&logo=C%2B%2B&logoColor=white)
